@@ -1,6 +1,26 @@
 # Prerequisites
 *.d
 
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj.user
+*.VC.db
+*.VC.opendb
+
+# Build output directories
+bin/
+intermediate/
+x64/
+Debug/
+Release/
+ipch/
+
 # Compiled Object files
 *.slo
 *.lo
